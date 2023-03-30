@@ -1,2 +1,7 @@
 # Personal-website
-"If you really want to do something, you'll find a way. If you don't, you'll find an excuse" -Jim Rohn
+added index.html
+added about.html
+added portfolio.html
+added style.css
+added javascript.js
+added images in image folder
